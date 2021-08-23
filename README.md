@@ -2,7 +2,7 @@
 Sou um T.I de 18 anos formado pelo IFMG, tenho paixão pelo desenvolvimento Web e busco a cada dia mais conhecimentos para me aprimorar como desenvolvedor, aqui é onde posto meu avanço como programador. Moro no interior de Mg e procuro uma oportunidade para ser um desenvolvedor web, gosto de jogos e ouvir músicas (supercombo é minha banda favorita), caso queira conversar comigo não exite em me chamar em alguma rede social.
 
 ### Redes Sociais:
-[<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/tulio_jao)  [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jtsoares/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tulio_joaob/)
+[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jtsoares/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tulio_joaob/)
 
 ### Sobre mim:
 Gosto de jogos, programação, ouvir músicas e compartilhar e ouvir pensamentos.
