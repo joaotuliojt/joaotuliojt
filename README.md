@@ -1,11 +1,8 @@
-### Olá, eu me chamo João Túlio 👋  
-Sou um T.I de 18 anos formado pelo IFMG, tenho paixão pelo desenvolvimento Web e busco a cada dia mais conhecimentos para me aprimorar como desenvolvedor, aqui é onde posto meu avanço como programador. Moro no interior de Mg e procuro uma oportunidade para ser um desenvolvedor web, gosto de jogos e ouvir músicas (supercombo é minha banda favorita), caso queira conversar comigo não exite em me chamar em alguma rede social.
+## Olá, eu me chamo João Túlio 👋 
+
 
 ### Redes Sociais:
 [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jtsoares/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tulio_joaob/)
-
-### Sobre mim:
-Gosto de jogos, programação, ouvir músicas e compartilhar e ouvir pensamentos.
 
 ### Linguagens:
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
