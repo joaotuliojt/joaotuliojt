@@ -1,7 +1,8 @@
 # Olá, eu me chamo João Túlio 👋 
 
-Me chamo João Túlio, sou técnico em informática com uma grande paixão por programação. Sou apaixonado por entregar soluções que agregam na vida das pessoas e ao mesmo tempo me desafiam. Aprimorei minhas habilidades como desenvolvedor Front-End e Back-End.
-#### Veja meu portfólio: https://joaotulio.vercel.app/
+"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis." - José de Alencar
+
+Olá, me chamo João Túlio, tenho 18 anos e sou apaixonado por desenvolvimento Web, gosto de entregar soluções para pessoas e seus negócios. Totalmente autodidata, e em constante em evolução para aprimorar minhas HardSkills e SoftSkills.
 
 ### Redes Sociais:
 [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jtsoares/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tulio_joaob/)
