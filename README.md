@@ -1,21 +1,32 @@
-# Olá, eu me chamo João Túlio 👋 
 
-"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis." - José de Alencar
 
-Olá, me chamo João Túlio, tenho 18 anos e sou apaixonado por desenvolvimento Web, gosto de entregar soluções para pessoas e seus negócios. Totalmente autodidata, e em constante em evolução para aprimorar minhas HardSkills e SoftSkills.
+<h3> 🙋‍♂️ Sobre mim </h3>
 
-### Redes Sociais:
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jtsoares/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tulio_joaob/)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 &nbsp; Trabalhando como desenvolvedor Full-Stack na Workfy.
+- 🎓 &nbsp; Aluno da <a href="https://rocketseat.com.br/">Rocketseat</a> turma Ignite.
+- 🌱 &nbsp; Aprendendo atualmente mais sobre Flutter e Pyton.
+- 👨‍💻 &nbsp; Técnico em informática
+
+
 
 ### Tecnologias:
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Frameworks:
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Banco de Dados:
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
+ 
+ <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jtsoares)](https://www.linkedin.com/in/jtsoares/)
+[![Gmail Badge](https://img.shields.io/badge/-joaotuliosoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaotuliosoares@hotmail.com)](mailto:joaotuliosoares@hotmail.com)
+
  
 <div>
   <a href="https://github.com/joaotuliojt">
