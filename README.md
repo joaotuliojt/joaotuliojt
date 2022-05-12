@@ -5,9 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como desenvolvedor Full-Stack na Workfy.
+- 💼 &nbsp; Trabalhando como desenvolvedor Full-Stack na <a href="https://unitok.com/">Unitok</a>.
 - 🎓 &nbsp; Aluno da <a href="https://rocketseat.com.br/">Rocketseat</a> turma Ignite.
-- 🌱 &nbsp; Aprendendo atualmente mais sobre Flutter e Pyton.
+- 🌱 &nbsp; Aprendendo atualmente mais sobre Framer Motion e Nest.
 - 👨‍💻 &nbsp; Técnico em informática
 
 
