@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Trabalhando como desenvolvedor Full-Stack na <a href="https://unitok.com/">Unitok</a>.
 - 🎓 &nbsp; Aluno da <a href="https://rocketseat.com.br/">Rocketseat</a> turma Ignite.
-- 🌱 &nbsp; Aprendendo atualmente mais sobre Framer Motion e Nest.
+- 🌱 &nbsp; Aprendendo atualmente mais sobre GraphQL.
 - 👨‍💻 &nbsp; Técnico em informática
 
 
