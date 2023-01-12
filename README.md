@@ -1,4 +1,4 @@
-# Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
+## Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -26,8 +26,8 @@
  
 <div>
   <a href="https://github.com/joaotuliojt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
