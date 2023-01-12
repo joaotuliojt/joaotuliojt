@@ -1,11 +1,10 @@
-
-
-<h3> 🙋‍♂️ Sobre mim </h3>
+# Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Desenvolvedor Full-Stack Javascript</a>.
+- 🎓 &nbsp; Me especializando em Front-End.
 
 
 
