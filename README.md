@@ -6,13 +6,6 @@ Conheci a área da programação aos 16 anos em meu curso técnico, onde começo
 
 <hr />
 
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Desenvolvedor Full-Stack Javascript</a>.
-- 🎓 &nbsp; Me especializando em Front-End.
-
-
-
 ### Tecnologias:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
