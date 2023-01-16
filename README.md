@@ -1,6 +1,11 @@
-## Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
+### Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
+
+Conheci a área da programação aos 16 anos em meu curso técnico, onde começou a minha paixão por tecnologia, continuei me dedicando na área e sempre buscando novos conhecimentos. Essa dedicação e paixão que me torna um bom programador, pois estou sempre em constante evolução. Desde que entrei no mercado fui percebendo que tenho uma grande afinidade e paixão pelo universo Front-End, principalmente quando falam de UI criativas, animações web, sua arquitetura e performance. Também tive experiências como desenvolvedor Full-Stack, no qual pude aprimorar bastante meus conhecimentos em Back-End.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<hr />
+
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Desenvolvedor Full-Stack Javascript</a>.
