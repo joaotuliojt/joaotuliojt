@@ -1,7 +1,6 @@
 <img src="https://i.ibb.co/W6MRLFy/linkedin-banner.png" width="100%" />
 
-<h3 align="center">  João Túlio </h3>
-<h3 align="center"> Creative Frontend </h3>
+<h3 align="center"> Joáo Túlio - Creative Frontend </h3>
 
 <p align="center">
   <a href="https://instagram.com/tulio_joao">Instagram</a> •
