@@ -1,27 +1,40 @@
-### Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
+<img src="https://i.ibb.co/W6MRLFy/linkedin-banner.png" width="100%" />
 
-Conheci a área da programação aos 16 anos em meu curso técnico, onde começou a minha paixão por tecnologia, continuei me dedicando na área e sempre buscando novos conhecimentos. Essa dedicação e paixão que me torna um bom programador, pois estou sempre em constante evolução. Desde que entrei no mercado fui percebendo que tenho uma grande afinidade e paixão pelo universo Front-End, principalmente quando falam de UI criativas, animações web, sua arquitetura e performance. Também tive experiências como desenvolvedor Full-Stack, no qual pude aprimorar bastante meus conhecimentos em Back-End.
+<h3 align="center">  João Túlio </h3>
+<h3 align="center"> Creative Frontend </h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p align="center">
+  <a href="https://instagram.com/tulio_joao">Instagram</a> •
+  <a href="https://joaotul.io">Portfólio</a> •
+  <a href="https://www.linkedin.com/in/jtsoares/">Linkedin</a> •
+  <a href="mailto:joaotuliosoares@hotmail.com">E-mail</a>
+</p>
 
-<hr />
+---
 
-### Tecnologias:
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### Frameworks:
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Banco de Dados:
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
- 
- <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## Sobre mim 👨‍💻
 
-[![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jtsoares)](https://www.linkedin.com/in/jtsoares/)
-[![Gmail Badge](https://img.shields.io/badge/-joaotuliosoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaotuliosoares@hotmail.com)](mailto:joaotuliosoares@hotmail.com)
+Conheci a área da programação aos 16 anos em meu curso técnico, onde começou a minha paixão por tecnologia, continuei me dedicando na área e sempre buscando novos conhecimentos. Desde que entrei no mercado fui percebendo que tenho uma grande afinidade e paixão pelo universo Front-End, principalmente quando falam de UI criativas, animações web, sua arquitetura e performance. Também tenho experiências como desenvolvedor Full-Stack, no qual aprimorei meus conhecimentos em NodeJs no backend.
 
- 
+## Stacks 🚀
+
+ - React 🔥 
+ - Next
+ - GSAP
+ - Storybook
+ - ChakraUI
+ - MUI
+ - Jest
+ - Cypress
+ - Node 
+ - Javascript
+ - Typescript
+ - MongoDB
+
+---
+
 <div>
   <a href="https://github.com/joaotuliojt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
