@@ -3,7 +3,6 @@
 ## Hi there I'm João Túlio
 ### I'm a Front-end Developer
 
-- 🏢 I'm currently working at **[Dotkon](https://dotkon.co/).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `react`, `node`, `Go`
 - ⚡️ Fun fact: I didn't memorize the months :p
 - 🌱 Learning all about **Front-End World** and **GoLang**
