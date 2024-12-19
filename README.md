@@ -1,6 +1,4 @@
-<img src="https://i.ibb.co/W6MRLFy/linkedin-banner.png" width="100%" />
-
-## Hi there I'm João Túlio
+## Hi there I'm Túlio
 ### I'm a Front-end Developer
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `react`, `node`, `Go`
@@ -19,6 +17,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
