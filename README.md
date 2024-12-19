@@ -1,10 +1,9 @@
 ## Hi there I'm Túlio
-### I'm a Front-end Developer
+### I'm a Software Developer
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `react`, `node`, `Go`
 - ⚡️ Fun fact: I didn't memorize the months :p
 - 🌱 Learning all about **Front-End World** and **GoLang**
-- 🌍 My Website: **[joaotul.io](https://joaotul.io/)**
 
 ### 🤝🏻 Connect with Me
 &nbsp; &nbsp; &nbsp;
